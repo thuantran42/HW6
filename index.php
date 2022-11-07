@@ -8,8 +8,8 @@
 
  
 
-    <h1>It is time to javascript.</h1>
-   <img src="https://www.southsoundtalk.com/wp-content/uploads/2019/11/Coffee-ander-Latte-e1573143205948.jpg" alt="Coffee Image" style="height:500px;" /> <!-- image pointer-->
+    <h1>It is time to use java libraries!</h1>
+   <img src="https://enosburghlibrary.files.wordpress.com/2016/02/coffee-and-books.jpg" alt="Coffee Image" style="height:500px;" /> <!-- image pointer-->
     
     
     <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.2.0/dist/js/bootstrap.bundle.min.js" integrity="sha384-A3rJD856KowSb7dwlZdYEkO39Gagi7vIsF0jrRAoQmDKKtQBHUuLZ9AsSv4jD4Xa" crossorigin="anonymous"></script>
